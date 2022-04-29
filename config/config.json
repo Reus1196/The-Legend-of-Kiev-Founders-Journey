@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4F3dF68D4BDC9EB7dF2b1357aFB9359592E86b46",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4F3dF68D4BDC9EB7dF2b1357aFB9359592E86b46",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "The Legend of Kiev Founders' Journey",
+  "SYMBOL": "LKF",
+  "MAX_SUPPLY": 20000,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-legend-of-kiev-founders-journey",
+  "SHOW_BACKGROUND": true
+}
